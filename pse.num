@@ -1,7 +1,0 @@
-Algoritmo sin_titulo
-	Escribir Di un número
-	Leer numero
-	Escribir "El doble de "numero" es " 2*numero
-	Escribir "Y la mitad de "numero" es numero:2
-FinAlgoritmo
-
