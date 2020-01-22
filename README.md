@@ -1,2 +1,2 @@
 # pseudocodigo3
-hola bby
+hola bby, soy Lucía
