@@ -1,4 +1,4 @@
-Algoritmo rellenardcha
+Algoritmo rellenarizqda
 	Escribir 'Dime una frase'
 	Leer frase
 	Escribir '¿Cuánto quieres que mida?'
@@ -11,7 +11,7 @@ Algoritmo rellenardcha
 	Escribir rsdo
 FinAlgoritmo
 
-Funcion rsdo = rellenarDerecha(frase,tam)
+Funcion rsdo = rellenarIzquierda(frase,tam)
 	falta <- tam-Longitud(frase)
 	cad <- generarCadena('*',falta)
 FinFuncion
