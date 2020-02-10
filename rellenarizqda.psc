@@ -2,7 +2,7 @@ Algoritmo rellenarizqda
 	Escribir 'Dime una frase'
 	Leer frase
 	Escribir '¿Cuánto quieres que mida?'
-	Leer num
+	Leer tam
 	// genero el relleno
 	falta <- tam-Longitud(frase)
 	cad <- generarCadena('*',falta)
@@ -19,7 +19,7 @@ FinFuncion
 Funcion rsdo = generarCadena(car,num)
 	rsdo <- ' '
 	Para tam<-1 Hasta num Hacer
-		Escribir "*" sin saltar
+		Escribir '*' Sin Saltar
 	FinPara
 FinFuncion
 
