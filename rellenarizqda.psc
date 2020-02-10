@@ -19,7 +19,7 @@ FinFuncion
 Funcion rsdo = generarCadena(car,num)
 	rsdo <- ' '
 	Para tam<-1 Hasta num Hacer
-		Escribir '*' Sin Saltar
+		rsdo=Concatenar(rsdo,"*")
 	FinPara
 FinFuncion
 
